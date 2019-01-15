@@ -60,7 +60,7 @@ This project is Battleship where you play against a computer. You click play and
 <h3>Authors</h3>
 
 * Hayley Carriker @Hcarriker7
-* Zachary Canada @ZachCanada
+* Zachary Canada @ZachCanada01
 
 <hr>
 
