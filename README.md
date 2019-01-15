@@ -6,9 +6,9 @@ https://youtu.be/XNoeqkjfGbA
 # Post Processing Layout
 <hr>
 <h3>Project </h3>
-This project is Battleship where you play against a computer.
+This project is Battleship where you play against a computer. You click play and it takes you to the game board. This is where you select 5 buttons. thats where your ships are placed. the yellow button will appear when you select your ship positions. in the text box above the button you enter where you want to attack. you and the computer will take turns attacking eachother. 
 
-Testing 
+
 <hr>
 
 <h3>Getting Started</h3>
@@ -60,6 +60,7 @@ Testing
 <h3>Authors</h3>
 
 * Hayley Carriker @HayleyCarriker
+* Zachary Canada @ZachCanada
 
 <hr>
 
