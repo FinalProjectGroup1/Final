@@ -1,5 +1,5 @@
 # Final
-# Post Processing Layout <img src=images/DeereImage.jpg height="50" width="100">
+# Post Processing Layout
 <hr>
 <h3>Project </h3>
 This project is for a add on to an internal data dig process. Using this will save people time and energy on the information they are trying to understand. This is an internal tool to better internal processes. 
@@ -9,21 +9,20 @@ Testing
 
 <h3>Getting Started</h3>
 
-* The latest version of this project is <a href="https://github.com/brosius02/ExDataDig/blob/master/Process%20Files/Version%20.62.py">version .62.</a><br>
-* .62 Version can create new note pages and you can delete older notepages. 
+* The latest version of this project is <a href=https://github.com/FinalProjectGroup1/Final
 
 
 <hr>
 
 <h3> Prerequisites</h3>
 
-* The things you will need to do to run this program. You will need to install python, pyshell, pycharm, wx import. 
+* Install Microsoft Visual Studio 
 
 
 <hr>
 
 <h3> Screenshots</h3>
-<img src="images/version .62.PNG" height="300" width="400">
+<img src=
 <hr>
 <br>
 <br>
@@ -50,13 +49,13 @@ Testing
 <h3>Contributing</h3>
 
 
-* If you would like to contribute to this project or have questions. You can email brosiusj@davenport.k12.ia.us 
+* If you would like to contribute to this project or have questions. You can email h.carriker7@gmail.com 
 
 <hr>
 
 <h3>Authors</h3>
 
-* John Brosius @JohnBrosius
+* Hayley Carriker @HayleyCarriker
 
 <hr>
 
