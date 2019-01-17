@@ -25,8 +25,8 @@ This project is Battleship where you play against a computer. You click play and
 
 <hr>
 
-<h3> Screenshots</h3>
-<img src=
+<h3> FlowChart</h3>
+<img src=https://www.draw.io/#G1JJu5lY-utavi-XQdJQ7N_lAe3dq-jJRj
 <hr>
 <br>
 <br>
